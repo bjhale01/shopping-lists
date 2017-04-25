@@ -3,6 +3,9 @@ Flour
 Juice
 Cereal
 
+Sausage
+Cheese
+
 For Mom:
 Arugula
 Almonds
